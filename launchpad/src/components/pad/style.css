@@ -1,3 +1,9 @@
 .pad-container {
   border-radius: 10px;
+  cursor: pointer;
+}
+
+.pad {
+  display: flex;
+  justify-content: center;
 }
