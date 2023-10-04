@@ -36,7 +36,7 @@ export default function Pad(props: PadProps) {
 
   return (
     <div style={padStyle} className="pad-container">
-      <div className="pad">{padKey}</div>
+      <div className="pad"></div>
     </div>
   );
 }
