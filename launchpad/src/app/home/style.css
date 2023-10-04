@@ -2,13 +2,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
 }
 
 .launchpad {
   border: solid 1px rgb(171, 171, 171);
   width: 800px;
-  height: 800px;
+  height: 100vh;
   padding: 10px;
   display: grid;
   grid-template-columns: auto auto auto auto auto auto auto auto;
